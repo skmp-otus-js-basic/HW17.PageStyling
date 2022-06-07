@@ -1,0 +1,10 @@
+.cache
+.idea
+.vscode
+dist
+node_modules
+.history
+.lh
+coverage
+.husky
+.eslintcache
