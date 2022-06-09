@@ -13,9 +13,9 @@
 
 - HTML является неотъемлемой частью работы JS-разработчика. Применить один из самых часто-используемых шаблонов - трёхколоночный макет.
 
-<div style="text-align: center;">
+<p align="center">
   <img height="300" src="https://github.com/svpotysev/Otus.JS-Basic.HW17.PageStyling/blob/readme/images/layout.png?raw=true" alt="three column layout"/>
-</div>
+</p>
 
 ### Выполнены этапы
 
