@@ -1,0 +1,27 @@
+{
+  "name": "otus.js-basic.hw17.pagestyling",
+  "version": "1.0.0",
+  "description": "Beavers in nature",
+  "main": "index.js",
+  "scripts": {
+    "lint": "prettier --check . && eslint .",
+    "lint:fix": "prettier --write . && eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svpotysev/Otus.JS-Basic.HW17.PageStyling.git"
+  },
+  "author": "Sergey Potysev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svpotysev/Otus.JS-Basic.HW17.PageStyling/issues"
+  },
+  "homepage": "https://github.com/svpotysev/Otus.JS-Basic.HW17.PageStyling#readme",
+  "devDependencies": {
+    "eslint": "^8.17.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "prettier": "2.6.2"
+  }
+}
